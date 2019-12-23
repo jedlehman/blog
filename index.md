@@ -4,12 +4,17 @@ You can use the [editor on GitHub](https://github.com/jedlehman/blog/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+This will track progress and goals on Brazilian Jiu-Jitsu and personal finance. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+
+### Brazilian Jiu-Jitsu
+
 
 # Header 1
 ## Header 2
