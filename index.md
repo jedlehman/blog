@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/jedlehman/blog/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Finance 
+
 This will track progress and goals on Brazilian Jiu-Jitsu and personal finance. 
 
 ### Markdown
